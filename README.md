@@ -1,6 +1,11 @@
-# pneumonia_detection
+<div align="center">
+  
+  # pneumonia_detection
+  
+</div>
 
-##### **Description**:
+#### **Description**:
+
 A University assignment completed for the AI module.
 Training a model on the provided dataset and optimising in order to accuratley detect pneumonia based on the provided test data, images.
 Defining a deep learning model that will learn the difference between pneumonia and normal CT images.
